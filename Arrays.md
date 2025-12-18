@@ -10,11 +10,7 @@ https://leetcode.cn/problems/two-sum/solutions/434597/liang-shu-zhi-he-by-leetco
 
 Here is the code reformatted into GitHub-flavored Markdown. I’ve added a header and syntax highlighting to make it look clean and professional for a README or documentation file.
 
-# Two Sum Solution
-
-## Problem Description
-
-The goal is to find two indices in an array such that the numbers at those positions add up to a specific target.
+# Leetcode 1 Two Sum Solution
 
 ## Implementation
 
@@ -40,7 +36,25 @@ class Solution:
 * **Time Complexity:** O(n^2) — The algorithm uses two nested loops to iterate through the list.
 * **Space Complexity:** O(1) — No extra space is used regardless of the input size.
 
-26RemoveDuiplicate
-Remove Duplicates from Sorted Array 
-https://leetcode.cn/problems/remove-duplicates-from-sorted-array/description/ 
-https://www.youtube.com/watch?v=DEJAZBq0FDA
+Here is the reformatted content in a clean, professional GitHub Markdown format. I’ve organized it into a structured list with clear headings and useful links.
+
+# Leetcode 26. Remove Duplicates from Sorted Array
+
+**Difficulty:** Easy
+
+**Topic:** Two Pointers / Array
+
+* **Problem Link:** [LeetCode #26 - Remove Duplicates from Sorted Array](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/description/)
+* **Video Tutorial:** [Watch on YouTube](https://www.youtube.com/watch?v=DEJAZBq0FDA)
+
+---
+
+# Leetcode 27. Remove Element
+
+**Difficulty:** Easy
+
+**Topic:** Two Pointers
+
+* **Problem Link:** [LeetCode #27 - Remove Element](https://leetcode.com/problems/remove-element/description/)
+* **Video Tutorial:** [Watch on YouTube](https://www.youtube.com/watch?v=Pcd1ii9P9ZI)
+
