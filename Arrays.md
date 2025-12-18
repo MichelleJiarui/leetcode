@@ -42,4 +42,5 @@ class Solution:
 
 26RemoveDuiplicate
 Remove Duplicates from Sorted Array 
-https://leetcode.cn/problems/remove-duplicates-from-sorted-array/description/ https://www.youtube.com/watch?v=DEJAZBq0FDA
+https://leetcode.cn/problems/remove-duplicates-from-sorted-array/description/ 
+https://www.youtube.com/watch?v=DEJAZBq0FDA
